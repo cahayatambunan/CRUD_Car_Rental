@@ -1,7 +1,3 @@
-Here's the improved and fully detailed `README.md` version tailored for your project. I've incorporated all the suggestions, including a Table of Contents, expanded instructions, and formatting tweaks.
-
----
-
 # CRUD Car Rental System
 
 A car rental management system built using **Python**. This system features basic **CRUD** (Create, Read, Update, Delete) operations for managing vehicle listings and rental bookings. The application is designed for two types of users: **Admins**, who manage car data, and **Customers**, who browse and book available cars.
@@ -17,7 +13,6 @@ A car rental management system built using **Python**. This system features basi
   - [Admin Menu](#admin-menu)
   - [Customer Menu](#customer-menu)
 - [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 
@@ -144,17 +139,6 @@ Here are some ideas for expanding this project:
 ---
 
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the project, feel free to fork the repository and create a pull request with your changes. Be sure to follow the style and format of the existing code.
-
----
-
-This `README.md` file is now ready to provide a detailed, professional, and user-friendly guide to your project on GitHub. You can adjust the wording or add screenshots and a `LICENSE` file if needed.
