@@ -81,6 +81,7 @@ To run this project locally, follow these steps:
 ## Usage
 
 ### Admin Menu
+![Admin Car Listing](./admin_view.png)
 Admins have the following options to manage car listings:
 1. **View All Cars**: Displays all cars with their details.
 2. **Add a Car**: Input car information such as type, transmission, seats, status, and price.
@@ -89,6 +90,7 @@ Admins have the following options to manage car listings:
 5. **Exit**: Exit the admin menu.
 
 ### Customer Menu
+![Customer Booking](./customer_view.png)
 Customers have the following options to interact with the system:
 1. **View All Available Cars**: Displays all cars that are currently available for rent.
 2. **Search for a Car by ID**: Input the ID of a car to view its details.
@@ -133,20 +135,7 @@ Here are some ideas for expanding this project:
 
 ---
 
-## Screenshots
 
-You can include screenshots of the program in action here. For example, admin viewing the car listing or a customer booking a car.
-
-```md
-![Admin Car Listing]
-![image](https://github.com/user-attachments/assets/9093d3ce-2dc5-4e80-b95d-88a50c25e1e0)
-
-![Customer Booking](path-to-screenshot-2.png)
-![image](https://github.com/user-attachments/assets/b2d8f6c1-3830-441b-bedc-db25dfbc7ffa)
-
-```
-
----
 
 ## License
 
