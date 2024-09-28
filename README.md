@@ -1,7 +1,3 @@
-Here’s a suggestion for a professional and comprehensive `README.md` file for your car rental project:
-
----
-
 # CRUD Car Rental System
 
 ### Overview
