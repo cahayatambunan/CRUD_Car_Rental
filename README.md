@@ -19,8 +19,6 @@ A car rental management system built using **Python**. This system features basi
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Future Improvements](#future-improvements)
-- [Screenshots](#screenshots)
-- [License](#license)
 - [Contributing](#contributing)
 
 ---
@@ -79,23 +77,33 @@ To run this project locally, follow these steps:
 ---
 
 ## Usage
+### Main Menu
+![Main Menu](./main_menu.png)
+
+The main menu provides options for user to log in as:
+1. **Customer**: Displays Customer Menu.
+2. **Admin**: Displays Admin Menu.
+3. **Exit**: Exit from the program.
+
+
 
 ### Admin Menu
-![Admin Car Listing](./admin_view.png)
+![Admin Menu](./admin_view.png)
+
 Admins have the following options to manage car listings:
 1. **View All Cars**: Displays all cars with their details.
 2. **Add a Car**: Input car information such as type, transmission, seats, status, and price.
 3. **Update Car**: Modify details of an existing car by providing its ID.
 4. **Delete a Car**: Remove a car from the system.
-5. **Exit**: Exit the admin menu.
+5. **Exit**: Exit the admin menu, go to The Main Menu.
 
 ### Customer Menu
-![Customer Booking](./customer_view.png)
+![Customer Menu](./cust_view.png)
 Customers have the following options to interact with the system:
 1. **View All Available Cars**: Displays all cars that are currently available for rent.
 2. **Search for a Car by ID**: Input the ID of a car to view its details.
 3. **Book a Car**: Reserve a car for a rental by providing the required details.
-4. **Exit**: Exit the customer menu.
+4. **Exit**: Exit the customer menu, go to The Main Menu.
 
 ---
 
